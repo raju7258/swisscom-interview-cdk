@@ -1,4 +1,4 @@
-This is Swisscom Interview repo for building the below using AWS CDK 
+This is Swisscom Interview repo for building the below architecture using AWS CDK 
 
 ![alt text](image.png)
 
